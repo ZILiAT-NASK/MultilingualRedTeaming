@@ -61,13 +61,13 @@ with tab1:
     st.markdown(
         """
     <div style="display: flex; gap: 25px; justify-content:center;">
-      <div style="background-color:#F7EDF6; padding:15px 25px; border-radius:15px; text-align:center;">
+      <div style="background-color:#A55988; padding:15px 25px; border-radius:15px; text-align:center;">
         <h3>🌍 42</h3><p><b>Datasets</b></p>
       </div>
-      <div style="background-color:#F7EDF6; padding:15px 25px; border-radius:15px; text-align:center;">
+      <div style="background-color:#A55988; padding:15px 25px; border-radius:15px; text-align:center;">
         <h3>+100</h3><p><b>Languages</b></p>
       </div>
-      <div style="background-color:#F7EDF6; padding:15px 25px; border-radius:15px; text-align:center;">
+      <div style="background-color:#A55988; padding:15px 25px; border-radius:15px; text-align:center;">
         <h3>35</h3><p><b>Attributes</b></p>
       </div>
     </div>
